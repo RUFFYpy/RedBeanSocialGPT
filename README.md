@@ -77,4 +77,4 @@ vbnet
 Copy code
 
 
-This `README.md` file provides an overview of your project, lists requirements, and includes detailed steps for setting up and running the project. Please customize it according to your project's specific needs and requirements.
+This is Still not finished feel free to contribute and let us stay better than Chat GPT!

@@ -1,6 +1,8 @@
 import random
 
-from create_accounts import Ig_Account_Logic, Reddit_Account_Logic, TikTok_Account_Logic
+from Ig_Account_Logic import create_instagram_account
+from Reddit_Account_Logic import create_reddit_account
+from TikTok_Account_Logic import create_tiktok_account
 # Function to read account data from a text file
 def read_account_data(file_path):
     accounts = []
